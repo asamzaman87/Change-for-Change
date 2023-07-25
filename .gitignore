@@ -1,0 +1,6 @@
+venv
+.idea
+__pycache__
+flask_session
+backend/migrations/__pycache__
+.DS_Store

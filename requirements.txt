@@ -1,0 +1,6 @@
+Flask
+postgres
+psycopg2
+pytest
+requests
+flask_session
